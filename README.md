@@ -28,6 +28,6 @@ To install BTE, enter your terminal, and type these commands:
 
 after you've cloned the repo, run:
 
-`cd bte && chmod +x install.sh && ./install.sh`
+`cd bte && chmod +x installer.sh && ./installer.sh`
 
 that's it! You can now run bte by running bte/bte filename
